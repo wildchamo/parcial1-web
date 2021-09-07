@@ -1,15 +1,3 @@
-*{
-    padding:0;
-    margin:0;
-    box-sizing: border-box;
-}
-:root{
-    --rojo:#981B15;
-}
-html{
-    font-family: roboto;
-}
-
 
 .fondoImagen{
     background-image: url(img/fondo.png);

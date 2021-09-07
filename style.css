@@ -1,3 +1,7 @@
+*{
+    padding:0;
+    box-sizing: border-box;
+}
 :root{
     --rojo:#981B15;
 }
@@ -6,7 +10,12 @@ html{
 }
 
 
-
+.fondoImagen{
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    width:1024px;
+    height:705px;
+}
 
 
 .contenedor-login{

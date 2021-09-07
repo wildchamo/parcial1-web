@@ -25,9 +25,25 @@ html{
     background-color:white;
     display:flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .contenedor-login img{
     width: 406px;
     height: 70px;
+}
+.contenedor-login input{
+    height: 68px;
+    width:410px;
+    border-radius: 34px;
+    border-color: var(--rojo);
+}
+
+.contenedor-login button{
+    height: 68px;
+    width:410px;
+    border-radius: 34px;
+    background-color: var(--rojo);
+    color:white;
+    border: none;
 }

@@ -1,0 +1,15 @@
+:root{
+    --rojo:#981B15;
+}
+html{
+    font-family: roboto;
+}
+
+
+
+
+
+.contenedor-login{
+    width: 648px;
+    height: 407px;
+}

@@ -21,4 +21,13 @@ html{
 .contenedor-login{
     width: 648px;
     height: 407px;
+    padding: 0 auto;
+    background-color:white;
+    display:flex;
+    flex-direction: column;
+}
+
+.contenedor-login img{
+    width: 406px;
+    height: 70px;
 }

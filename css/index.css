@@ -10,6 +10,7 @@ body{
 
 .contenedor-login{
     width: 648px;
+    min-width: 300px;
     height: 407px;
     padding: 0 auto;
     background-color:white;

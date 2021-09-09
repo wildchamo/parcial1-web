@@ -31,7 +31,10 @@ line-height: 42px;
     padding-top:10px;
     padding-left: 30px;
 }
-
+.cardss{
+    margin-top: 20px;
+    display: flex;
+}
 .card-contenedor{
     width: 312px;
     height: 160px;

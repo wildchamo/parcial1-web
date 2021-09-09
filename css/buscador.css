@@ -1,3 +1,6 @@
+body{
+    background-color: #E5E5E5;
+}
 header{
     width:100%;
     background-color:white;
@@ -9,9 +12,8 @@ header img{
     width:249px ; 
     height:43px;
 }
-.fondo{
-    background-color: #E5E5E5;
-    height: 100vh;
+main{
+    
     padding:21px;
 }
 .seccionBusqueda{

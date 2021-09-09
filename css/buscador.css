@@ -11,10 +11,36 @@ header img{
 }
 .fondo{
     background-color: #E5E5E5;
+    height: 84vh;
+    padding:21px;
 }
 .seccionBusqueda{
     width:1380px;
     height:135px;
     background-color: white;
     border-radius: 32px;
+    border-top: 21px;
+    display: flex;
+    align-items :center;
+    padding-left: 32px;
+}
+
+.seccionBusqueda button{
+    height: 54px;
+    width:160px;
+    border-radius: 34px;
+    background-color: var(--rojo);
+    color:white;
+    border: none;
+    font-size: 24px;
+    cursor:pointer;
+}
+
+.seccionBusqueda input{
+    height: 59px;
+    width:338px;
+    border-radius: 34px;
+    border-color: var(--rojo);
+    font-size: 24px;
+    
 }

@@ -20,4 +20,14 @@ main{
     border-radius: 32px;
     padding-top: 24px;
     padding-left: 51px;
+    display: flex;
+}
+div h2{
+    font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+}
+.section1-text{
+    padding-top:10px;
+    padding-left: 30px;
 }

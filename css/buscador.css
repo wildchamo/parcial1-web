@@ -9,3 +9,12 @@ header img{
     width:249px ; 
     height:43px;
 }
+.fondo{
+    background-color: #E5E5E5;
+}
+.seccionBusqueda{
+    width:1380px;
+    height:135px;
+    background-color: white;
+    border-radius: 32px;
+}

@@ -11,7 +11,7 @@ header img{
 }
 .fondo{
     background-color: #E5E5E5;
-    height: 84vh;
+    height: 100vh;
     padding:21px;
 }
 .seccionBusqueda{
@@ -49,4 +49,25 @@ header img{
     width: 360px;
     height: 185px;
     background-color:white;
+    display: flex;
+    flex-direction:column;
+    align-items :center;
+    justify-content: space-around;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-end-end-radius: 33px;
+    border-end-start-radius: 33px;
+}
+
+.seccionCards{
+    margin-top:10px;
+}
+.card-contenedor button{
+    height: 63px;
+    width:195px;
+    border-radius: 34px;
+    background-color: var(--rojo);
+    color:white;
+    border: none;
+    font-size: 24px;
+    cursor:pointer;
 }

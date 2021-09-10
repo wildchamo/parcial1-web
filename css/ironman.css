@@ -63,7 +63,13 @@ line-height: 42px;
     cursor:pointer;
 }
 @media  (max-width: 768px) {
+    .section1{
+    flex-direction: column;
+    padding-left: 0;
+    padding: 0 auto;
+    }
     .cardss{
-        
+        flex-direction: column;  
+        align-items:center;  
     }
 }

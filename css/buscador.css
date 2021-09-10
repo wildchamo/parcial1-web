@@ -75,5 +75,7 @@ main{
 @media  (max-width: 500px) {
     .seccionBusqueda{
         flex-direction: column;
+        padding-left:0;
+        justify-content: space-around;
     }
 }

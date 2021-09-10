@@ -25,7 +25,7 @@ body{
   }
 
 .contenedor-login img{
-    width: 406px;
+    min-width:250px;
     height: 70px;
 }
 .contenedor-login input{
